@@ -1,0 +1,22 @@
+body {
+    background-image: url(pic.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+span {
+    color: purple;
+}
+
+form label,
+form input {
+    font-size: 10px;
+}
+
+.btn,
+.btn:hover {
+    font-size: 14px;
+    background-color: purple;
+    color: white;
+    width: 200px;
+}
